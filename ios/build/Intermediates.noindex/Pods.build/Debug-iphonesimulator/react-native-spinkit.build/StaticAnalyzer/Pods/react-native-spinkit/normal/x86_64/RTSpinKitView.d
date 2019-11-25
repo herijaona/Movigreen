@@ -1,0 +1,6 @@
+dependencies: \
+  /Users/macbookair/Documents/project/moovingreen/node_modules/react-native-spinkit/ios/Libraries/SpinKit/RTSpinKitView.m \
+  /Users/macbookair/Documents/project/moovingreen/ios/Pods/Target\ Support\ Files/react-native-spinkit/react-native-spinkit-prefix.pch \
+  /Users/macbookair/Documents/project/moovingreen/node_modules/react-native-spinkit/ios/Libraries/SpinKit/RTSpinKitView.h \
+  /Users/macbookair/Documents/project/moovingreen/node_modules/react-native-spinkit/ios/Libraries/SpinKit/RTSpinKitUtils.h \
+  /Users/macbookair/Documents/project/moovingreen/node_modules/react-native-spinkit/ios/Libraries/SpinKit/RTSpinKitAnimating.h
